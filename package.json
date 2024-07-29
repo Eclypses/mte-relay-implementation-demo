@@ -1,0 +1,20 @@
+{
+  "name": "form-submit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.3",
+    "handlebars": "^4.7.8",
+    "mte": "npm:@eclypses/tblackman-llc-mte-relay-demo-sales-demo-mte-relay@^4.1.0",
+    "nodemon": "^3.1.4"
+  }
+}
